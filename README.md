@@ -1,4 +1,6 @@
-# Hey :wave:
+---
+title: "Hey"
+---
 
 I'm johko, welcome to my blog!
 
