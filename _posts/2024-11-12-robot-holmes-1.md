@@ -1,6 +1,6 @@
 # Robot Holmes and the Vision-Language Murder Mysteries #1
 
-![Robot Holmes standing in the middle of the street und a full moon](../res/robot_holmes/robot_holmes.png)
+![Robot Holmes standing in the middle of the street und a full moon](res/robot_holmes/robot_holmes.png)
 
 *This blog post is the first part of a little story that will introduce you to Vision-Language models and related tasks.
 We will follow the detective Robot Holmes through a night full of murder, betrayal and envy in the bustling city of MLington.*
