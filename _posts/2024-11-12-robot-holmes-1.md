@@ -10,7 +10,7 @@ Our story begins on a typical MLington day - cold, gray, rainy. Luckily the sun 
 
 That never is good news.
 
-![chief of police standing in the office](../res/robot_holmes/inside_office.png)
+![chief of police standing in the office](/res/robot_holmes/inside_office.png)
 
 *“It's [Old SAN](https://arxiv.org/pdf/1511.02274.pdf), he has been found dead inside his devastated workshop.”*
 Old SAN - one of the people over in *Vision Language Village*. A reputable citizen - has been there for ages, basically started the whole part of town with some other guys. There were rumours of him being some sort of leader in the district’s community. Now he’s dead and he is not the first one in the Village recently.
@@ -21,7 +21,7 @@ Holmes sighed heavily, put on his hat and stepped out into the dark city streets
 
 ## MLington
 You might have never heard of MLington, so let us take a little tour through Holmes' hometown:
-![image/png](../res/robot_holmes/mlington_full_text.png)
+![image/png](/res/robot_holmes/mlington_full_text.png)
 
 **City of Science**
 Right at the core of MLington - *City of Science* is the place where the scientists live and where they build their cathedrals for Machine Learning. Legend has it, that when a team of scientist loves their research very much, a new Machine Learning model is born. Now and then there might be an Ivory Tower popping up in these parts of town and falling to rubbles again soon after.
@@ -54,7 +54,7 @@ Holmes turned to the only person in the shop besides him - a model standing on a
 Holmes thanked her, said his farewells and stepped back out into the dark city streets.
 
 
-![image/png](../res/robot_holmes/blog_image_captioning.png)
+![image/png](/res/robot_holmes/blog_image_captioning.png)
 
 **Image-Text Retrieval**
 
@@ -71,7 +71,7 @@ The old model stopped mumbling. "Name an animal", he suddenly said in the direct
 
 Holmes thanked the man and was on his way again.
 
-![image/png](../res/robot_holmes/blog_itr.png)
+![image/png](/res/robot_holmes/blog_itr.png)
 
 **Visual Question Answering**
 As Holmes walked on through the dark city streets, a big wooden sign caught his eye. It was shaped like a big red question mark and hung directly in front of one of the shops. 'Intriguing enough', he thought and opened the door of the shop.
@@ -91,7 +91,7 @@ Now Holmes could see a very slim figure standing behind a big counter, nervously
 
 "Have a good night", Holmes muttered and turned around, stepping out of the doorframe he was still standing in.
 
-![image/png](../res/robot_holmes/blog_vqa.png)
+![image/png](/res/robot_holmes/blog_vqa.png)
 
 **Visual Grounding**
 Robot Holmes was getting to terms with the fact that the inhabitants of Vision-Language Village all seemed to be quite special characters. He had the feeling everyone here could be a murderer or no one. At the same time he sensed a strong bond in the local community.
@@ -119,7 +119,7 @@ Visual Grounding is, to be exact, not a single service or task. The term contain
 
 Holmes was impressed, thanked her, took his notes and once again stepped back into the damp city streets.
 
-![image/png](../res/robot_holmes/blog_grounding2.png)
+![image/png](/res/robot_holmes/blog_grounding2.png)
 
 **Text to Image**
 He felt like he had a good grasp of some popular services offered in these streets now, but he already knew that the most popular task in recent time in ViLaVi has been text-to-image. 
@@ -128,7 +128,7 @@ Given a text prompt, the models offering this service create an image for you, t
 
 Actually models in MLington offering this service have started a whole new part of town, as they outgrew ViLaVi and started to become a whole ecosystem for themselves. They now reside in *Diffuserton*, which is a part of town for another story. Robot Holmes decided to not set foot in there and instead focus on the current citizens populating the streets of MLington.
 
-![image/png](../res/robot_holmes/blog_text_to_image.png)
+![image/png](/res/robot_holmes/blog_text_to_image.png)
 
 
 ## The First Clue
@@ -143,6 +143,6 @@ After some time of rummaging, Holmes came to the conclusion that there was nothi
 
 A piece of red cloth might not look like much, but it is better then nothing. And as it happens Holmes earlier heard about one particular resident of ViLaVi who is infamous for her taste in red clothes. Holmes set off to see her and ask her some uncomfortable questions.
 
-![image/png](../res/robot_holmes/red_cloth_free.png)
+![image/png](/res/robot_holmes/red_cloth_free.png)
 
 *Thank you for reading. This is where the first part of the story ends. The next one will be released soon.*
