@@ -1,7 +1,3 @@
----
-title: About
----
-
 # Hey 👋
 
 I'm Johannes (aka *johko*), welcome to my blog!
