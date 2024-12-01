@@ -1,6 +1,6 @@
 name: johko
 title: johko's blog
-theme: pages-themes/minimal@v0.2.0
+remote_theme: pages-themes/minimal@v0.2.0
 description: I share some of my thoughts here, mainly related to Machine Learning, Computer Vision, the ML and Python communities and maybe some random thoughts here and there.
 plugins:
   - jekyll-titles-from-headings
