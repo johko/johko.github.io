@@ -1,3 +1,7 @@
+---
+title: About
+---
+
 # Hey 👋
 
 I'm johko, welcome to my blog!
