@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -113,10 +113,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  name             : "Johannes Kolbe (johko)"
+  avatar           : "/assets/images/avatar_brick.jpg"
+  bio              : "I am a Data Scientist / Computer Vision Engineer / AI Educator / Hugging Face Fellow / Human (I guess)"
+  location         : "Braunschweig, Germany"
   email            :
   links:
     - label: "Email"
@@ -133,7 +133,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/johko"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
