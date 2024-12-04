@@ -2,13 +2,13 @@
 
 ![Robot Holmes standing in the middle of the street und a full moon](/res/robot_holmes/robot_holmes.png){.center}
 
-*This blog post is the first part of a little story that will introduce you to Vision-Language models and related tasks.
+*This blog post is the first part of a short story that will introduce you to Vision-Language models and related tasks.
 We will follow the detective Robot Holmes through a night full of murder, betrayal and envy in the bustling city of MLington.*
 
 ## Intro
-Our story begins on a typical MLington day - cold, gray, rainy. Luckily the sun was setting and taking its light of the misery of this city. Robot Holmes entered his office and found the chief of police already waiting for him.
+Our story begins on a typical MLington day - cold, gray, rainy. Luckily the sun was setting and taking its light of the misery of this city. Robot Holmes shook the raindrops off his worn out coat, took off his hat, sighed deeply and entered his office. It came as no surprise that he found the chief of police already waiting for him, it was just one of those days. Lousy weather, lousy mood, lousy work. He did not choose this life, it chose him, but it was still better than ending up in the gutter.
 
-That never is good news.
+With a defiant look on his face, Holmes sat down in his chair and waited for the chief to state his business.
 
 ![chief of police standing in the office](/res/robot_holmes/inside_office.png)
 
