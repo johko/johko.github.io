@@ -1,3 +1,8 @@
+---
+layout: home
+author_profile: true
+---
+
 # Hey 👋
 
 I'm Johannes (aka *johko*), welcome to my blog!
