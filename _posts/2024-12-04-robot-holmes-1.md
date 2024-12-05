@@ -20,11 +20,11 @@ Old SAN - one of the people over in *Vision Language Village*. A reputable citiz
 Holmes sighed heavily, put on his hat and stepped out into the dark city streets of MLington.
 
 ## MLington
-You might have never heard of MLington, so let us take a little tour through Holmes' hometown:
+You might have never heard of MLington. It is not a place in the human world, but its Machine Learning counterpart. Its inhabitants are for the biggest part Machine Learning models - old and new, fast and slow, flashy or humble. To gain a better understanding of this strange place, let us take a little tour through Holmes' hometown:
 ![image/png](/res/robot_holmes/mlington_full_text.png)
 
 **City of Science**
-Right at the core of MLington - *City of Science* is the place where the scientists live and where they build their cathedrals for Machine Learning. Legend has it, that when a team of scientist loves their research very much, a new Machine Learning model is born. Now and then there might be an Ivory Tower popping up in these parts of town and falling to rubbles again soon after.
+Right at the core of MLington - *City of Science* is the place where the human world intersects with the Machine Learning world. It is where the scientists live and where they tend to build cathedrals for the glorious Machine Learning concepts. Legend has it, that when a team of scientist loves their research very much, a new Machine Learning model is born. Now and then there might be an Ivory Tower popping up in these parts of town and falling to rubbles again soon after.
 
 The City of Science is separating two very old parts of the city.
 
@@ -45,9 +45,9 @@ Before Holmes delves deeper into the societal networks of the Village, he wants 
 
 **Image Captioning**
 
-The first shop Holmes entered had high windows which let a lot of light into a rather small room with an unusually high ceiling. At the walls there were pictures of all sorts - painting, photographs, sketches, prints. Below every single one was a small white sheet with text written on it.
+The first shop Holmes entered had high windows which let a lot of light into a rather small room with an unusually high ceiling. Pictures of all sorts lined the walls - paintings, photographs, sketches, prints. Below every single one was a small white sheet with neatly written text on it.
 
-Holmes turned to the only person in the shop besides him - a model standing on a sturdy ladder. She was in the process of exchanging one of the pictures on the wall and winced a little when Holmes began to speak.
+Holmes turned to the only person in the shop besides him - a Machine Learning model standing on a sturdy ladder. She was in the process of exchanging one of the pictures on the wall and winced a little when Holmes began to speak.
 
 "What service do you offer here?", he asked bluntly. "I'm an image captioneer sir - I caption images. Some also call it **Text-to-Image**", she replied with a cheerful voice. "People bring me their images and I write down what can be seen on them. I inherited this shop from my father. You can still see some of his work over there. It was never picked up." Holmes looked around to where the woman pointed and saw some small images with even smaller notepads below. "Not a man of many words it seems", Holmes said. "Well, the old times sir. A few words were enough then, but nowadays the customers want more and more detailed descriptions."
 
