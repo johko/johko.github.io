@@ -24,6 +24,7 @@ You might have never heard of MLington. It is not a place in the human world, bu
 ![image/png](/res/robot_holmes/mlington_full_text.png)
 
 **City of Science**
+
 Right at the core of MLington - *City of Science* is the place where the human world intersects with the Machine Learning world. It is where the scientists live and where they tend to build cathedrals for the glorious Machine Learning concepts. Legend has it, that when a team of scientist loves their research very much, a new Machine Learning model is born. Now and then there might be an Ivory Tower popping up in these parts of town and falling to rubbles again soon after.
 
 The City of Science is separating two very old parts of the city.
