@@ -1,7 +1,6 @@
 ---
 permalink: /about/
 title: "About"
-layout: single
 ---
 
 Hey, I'm Johannes, but mostly you find me as **johko** on all kinds of sites and communities on the internet.

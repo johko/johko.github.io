@@ -1,7 +1,6 @@
 ---
 permalink: /portfolio/
 title: "Portfolio"
-layout: home
 ---
 
 Here is some of the work and presentations I have done in the past:
